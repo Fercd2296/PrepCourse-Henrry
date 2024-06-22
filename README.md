@@ -1,1 +1,1 @@
-Este proyecto es una prueba de como crear un commit y clonarlo en mi pc
+Carlos fernando paredes
